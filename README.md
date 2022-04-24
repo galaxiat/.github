@@ -11,6 +11,8 @@ Welcome on Galaxiat github organisation !
 
 🌐 The website : [link](https://galaxiatapp.com)
 
+📘 For the Galaxiat.ts lib [link](https://github.com/galaxiat/galaxiat.ts)
+
 <!--
 
 **Here are some ideas to get you started:**
