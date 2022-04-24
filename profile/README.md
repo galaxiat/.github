@@ -9,7 +9,10 @@ Welcome on Galaxiat github organisation !
 
 ❓ Other issue : [link](https://github.com/galaxiat/.github/issues/new/choose)
 
-🌐 The website : [link](https://galaxiatapp.com)
+🌐 The website : [link](https://www.galaxiatapp.com)
+
+📘 For the Galaxiat.ts lib [link](https://github.com/galaxiat/galaxiat.ts)
+
 
 <!--
 
